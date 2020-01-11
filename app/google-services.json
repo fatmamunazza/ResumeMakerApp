@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "194974527915",
+    "firebase_url": "https://resumemaker-b7768.firebaseio.com",
+    "project_id": "resumemaker-b7768",
+    "storage_bucket": "resumemaker-b7768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194974527915:android:92698ed2f34e0fc9",
+        "android_client_info": {
+          "package_name": "com.example.resumemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194974527915-41iu4vej0tu891e1v44j90kmaqsa5anu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resumemaker",
+            "certificate_hash": "1afb2f85963ab295b1eb219a21a4cd576e6c4461"
+          }
+        },
+        {
+          "client_id": "194974527915-huj6r7fgbrd4ft0dgrar1fns5foetmg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.resumemaker",
+            "certificate_hash": "87ed0429dd25be565cffb1f8e46409f7951a9c55"
+          }
+        },
+        {
+          "client_id": "194974527915-i3018upb7r1s3698uf8vc9q6djqtjr52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl242pl-tBY756qRziShxgan6EDHRo3XE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194974527915-i3018upb7r1s3698uf8vc9q6djqtjr52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
